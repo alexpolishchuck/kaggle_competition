@@ -69,8 +69,3 @@ Experiments can be modified and rerun to compare different preprocessing strateg
 
 ## Data
 This dataset consists of a train.csv file which contains the image_id and class_6 columns. The image_id is the unique id for each image of yoga pose and the class_6 classes of yoga poses to which that image belongs. The images for training and testing are present in the images folder. The aim of this competition is to predict the class_6 correctly for the test_images and submit the response as csv file submission.csv.
-Competition datasets are not necessarily included in this repository.
-
-Download the required data directly from the corresponding Kaggle competition and place it in the location expected by the project code.
-
-Kaggle competition data should be used according to the rules and licensing terms of the corresponding competition.
